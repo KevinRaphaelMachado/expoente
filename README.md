@@ -1,0 +1,2 @@
+# expoente
+exercicio expoente
